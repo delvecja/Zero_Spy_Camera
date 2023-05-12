@@ -17,3 +17,9 @@ With the above command it is possible to have a server listening for the data an
 
 ## Simple Demo Showing camera works: 
 https://youtu.be/rIBQVOubTPE
+
+## Zero Setup on Battery Power
+![Raspberry Pi Zero 2 W with Zero Spy Camera](/images/zero-setup.jpg)
+
+## Original Attempt Pico W Setup
+![Raspberry Pi Pico W with OV5640 Camera Breakout Board](images/pico-setup.jpg)
